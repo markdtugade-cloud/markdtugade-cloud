@@ -29,7 +29,6 @@ New Era University
 ## Contact Me
 
 - **GitHub:** [markdtugade-cloud](https://github.com/markdtugade-cloud)
-- **LinkedIn:** [My LinkedIn Profile](#)
 - **Email:** markdtugade@gmail.com
 
 
