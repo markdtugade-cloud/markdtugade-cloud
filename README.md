@@ -13,10 +13,10 @@ New Era University
 
 ## Certifications
 
-- [https://catalog-education.oracle.com/pls/certview/sharebadge?id=5AACFAF158CDEB2CC6EAE888B7C05014E209CE200CC3A97CBB9A33ABFAC29304](#)
-- [https://catalog-education.oracle.com/pls/certview/sharebadge?id=09957772D3215DEB309A0B9B81A7BFFCCEB6BF58DDDF513E2FE7DE9FD6786487](#)
--https://catalog-education.oracle.com/pls/certview/sharebadge?id=5AACFAF158CDEB2CC6EAE888B7C05014E209CE200CC3A97CBB9A33ABFAC29304 [](#)
-- [SQL and Relational Databases 101](#)
+-https://catalog-education.oracle.com/pls/certview/sharebadge?id=5AACFAF158CDEB2CC6EAE888B7C05014E209CE200CC3A97CBB9A33ABFAC29304
+-https://catalog-education.oracle.com/pls/certview/sharebadge?id=09957772D3215DEB309A0B9B81A7BFFCCEB6BF58DDDF513E2FE7DE9FD6786487
+-https://catalog-education.oracle.com/pls/certview/sharebadge?id=5AACFAF158CDEB2CC6EAE888B7C05014E209CE200CC3A97CBB9A33ABFAC29304 
+  
 
 ## Skills
 
